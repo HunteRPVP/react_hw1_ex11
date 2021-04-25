@@ -1,5 +1,5 @@
 import React from "react";
-import logo from 'https://github.com/HunteRPVP/react_hw1_ex11/blob/main/src/logo.svg';
+import logo from './logo.svg';
 import './App.css';
 
 function App() {
